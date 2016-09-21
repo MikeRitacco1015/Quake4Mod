@@ -1,0 +1,4 @@
+"Autosave dmsp/g1"
+"^:Map Start	^0GLADIATOR"
+"gfx/guis/loadscreens/g1"
+nooverwrite
